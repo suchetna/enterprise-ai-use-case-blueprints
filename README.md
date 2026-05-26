@@ -23,6 +23,11 @@ This repository is being built as a public working library. The first files will
 ## Working principle
 
 Start with business problems, not model excitement.
+## Repository structure
+
+- [Frameworks](./frameworks/ai-use-case-prioritization-framework.md)
+- [Templates](./templates/business-value-vs-feasibility-template.md)
+- [Checklists](./checklists/use-case-prioritization-checklist.md)
 
 ## Related repositories
 
